@@ -1,0 +1,28 @@
+{
+  "diffEditor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+  "editor.tabSize": 2,
+  "telemetry.enableTelemetry": false,
+  "editor.parameterHints.enabled": false,
+  "security.workspace.trust.enabled": false,
+  "debug.javascript.codelens.npmScripts": "never",
+  "workbench.statusBar.visible": true,
+  "breadcrumbs.enabled": false,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "prettier.semi": false,
+  "prettier.printWidth": 9999,
+  "prettier.trailingComma": "none",
+  "prettier.quoteProps": "preserve",
+  "prettier.arrowParens": "avoid",
+  "workbench.startupEditor": "none",
+  "workbench.editor.untitled.hint": "hidden",
+  "files.exclude": {
+    //"**/.DS_Store": false,
+}
